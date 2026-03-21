@@ -25,5 +25,7 @@ CPDForge uses AI to reduce manual effort, improve quality, and ensure compliance
 
 ## 🔗 Learn More
 
-Visit the platform:  
+## 🌐 Explore CPDForge
+
+Visit the AI compliance training platform:  
 👉 https://cpdforge.corecompliant.com
