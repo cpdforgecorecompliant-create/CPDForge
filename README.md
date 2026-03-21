@@ -1,2 +1,29 @@
-# CPDForge
-# CPDForge – AI Compliance Training Platform  CPDForge helps organisations generate, improve, and manage compliance training using AI.  🌐 Website: https://cpdforge.corecompliant.com  ## Features - AI course creation - Compliance tracking - Regulatory intelligence  ## Learn more Visit: https://cpdforge.corecompliant.com
+# CPDForge – AI Compliance Training Platform
+
+CPDForge is an AI-powered platform that helps organisations generate, improve, and manage compliance training automatically.
+
+🌐 Website: https://cpdforge.corecompliant.com
+
+---
+
+## 🚀 What CPDForge Does
+
+- AI course creation and improvement
+- Regulatory intelligence and monitoring
+- Learner tracking and compliance management
+- Scalable training for organisations
+
+---
+
+## 🌱 Why It Matters
+
+As compliance and sustainability demands increase, organisations need faster, smarter ways to manage training.
+
+CPDForge uses AI to reduce manual effort, improve quality, and ensure compliance at scale.
+
+---
+
+## 🔗 Learn More
+
+Visit the platform:  
+👉 https://cpdforge.corecompliant.com
